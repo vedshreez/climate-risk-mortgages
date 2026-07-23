@@ -1,0 +1,3 @@
+ROC-AUC: 0.386
+PR-AUC: 0.005 (baseline=0.003)
+KS: 0.215
